@@ -1,0 +1,23 @@
+{
+  "name": "projetonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test | tap-spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehmaxado/aulaqanode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ehmaxado/aulaqanode/issues"
+  },
+  "homepage": "https://github.com/ehmaxado/aulaqanode#readme",
+  "description": "",
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^5.6.1"
+  }
+}
